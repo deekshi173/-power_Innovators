@@ -1,4 +1,6 @@
 # Innovators
+![video](https://github.com/user-attachments/assets/2e40552e-e907-449a-a62a-8d1da2759507)
+
 # Power Manager Telemetry
 # Project Overview
 Power Manager Telemetry is a project aimed at monitoring and optimizing power consumption in modern computing environments, especially in the context of 5G and edge computing deployments. This project focuses on collecting telemetry data from various system components, simulating load using Docker, and analyzing the data to provide insights into system power utilization.
@@ -66,8 +68,8 @@ The telemetry data will be logged into a CSV file.
 ``sh
 docker build -t load_simulator .
 ```
-Generating Reports
-Run the report generation script:
+# Generating Reports
+## Run the report generation script:
 ```sh
 python generate_report.py
 ```
