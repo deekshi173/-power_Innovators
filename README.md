@@ -108,14 +108,34 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 # File Structure
 power_manager_telemetry/
+
+
 ├── measure_system_power_utilization.py
+
+
 ├── load_simulator.py
+
+
 ├── generate_report.py
+
+
 ├── Dockerfile
+
+
 ├── telemetry_data.py
+
+
 ├── README.md
+
+
 ├── LICENSE
+
+
 ├── .gitignore
+
+
 ├── docs/
+
+
     ├── installation_guide.md
 
