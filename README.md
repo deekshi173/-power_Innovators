@@ -32,9 +32,9 @@ Windows (supported with necessary adjustments)
 Markdown (for project documentation)
 # Installation
 ## Prerequisites
-Python 3.8 or higher
-Docker Desktop
-Git
+Python 3.8 or higher: You can download Python from the official Python website.
+Docker Desktop: Docker is required for running the load simulation. You can download Docker from the official Docker website.
+Git: Git is used for version control and cloning the repository. You can download Git from the official Git website.
 ## Steps
 1. Clone the repository:
 ```sh
@@ -66,8 +66,8 @@ The telemetry data will be logged into a CSV file.
 ``sh
 docker build -t load_simulator .
 ```
-# Generating Reports
-## Run the report generation script:
+Generating Reports
+Run the report generation script:
 ```sh
 python generate_report.py
 ```
@@ -125,7 +125,4 @@ power_manager_telemetry/
 
 ├── .gitignore
 
-├── docs/
-
-    ├── installation_guide.md
-
+├── src/
