@@ -38,7 +38,7 @@ Git
 ## Steps
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/power_manager_telemetry.git
+git clone https://github.com/deekshi173/Innovators.git
 cd power_manager_telemetry
 ```
 ## Install Python dependencies:
@@ -93,3 +93,8 @@ Dockerfile creation, load simulation script, Docker environment management.
 Project documentation, user guides, frontend interface for scripts.
 ## T. Jayavardhan Reddy
 Testing, bug fixing, validation of telemetry data and reports.
+
+# Ar![Procces flow](https://github.com/user-attachments/assets/df4df581-2bcb-48eb-b634-5e02719cfef9)
+chitecture Diagram
+
+
