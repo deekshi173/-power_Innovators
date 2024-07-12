@@ -94,7 +94,28 @@ Project documentation, user guides, frontend interface for scripts.
 ## T. Jayavardhan Reddy
 Testing, bug fixing, validation of telemetry data and reports.
 
-# Ar![Procces flow](https://github.com/user-attachments/assets/df4df581-2bcb-48eb-b634-5e02719cfef9)
-chitecture Diagram
+# Process flow:
+![Procces flow](https://github.com/user-attachments/assets/df4df581-2bcb-48eb-b634-5e02719cfef9)
 
+# Architecture Diagram
+![Power manager architecture](https://github.com/user-attachments/assets/5e9c536b-a9e6-4507-bd66-d04610766a18)
+
+# Conclusion
+The Power Manager Telemetry project addresses the critical issue of power consumption in modern computing environments. By collecting detailed telemetry data, simulating loads, and analyzing the data, this project provides valuable insights into system power utilization. The project aligns with sustainability goals and offers a scalable framework for ongoing research and development.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+# File Structure
+power_manager_telemetry/
+├── measure_system_power_utilization.py
+├── load_simulator.py
+├── generate_report.py
+├── Dockerfile
+├── telemetry_data.py
+├── README.md
+├── LICENSE
+├── .gitignore
+├── docs/
+    ├── installation_guide.md
 
