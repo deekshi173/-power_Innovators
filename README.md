@@ -1,5 +1,5 @@
 # Innovators
-![video](https://github.com/user-attachments/assets/2e40552e-e907-449a-a62a-8d1da2759507)
+![logo](https://github.com/user-attachments/assets/956be19e-4190-4ada-bc17-83a3d5d660a5)
 
 # Power Manager Telemetry
 # Project Overview
@@ -101,6 +101,9 @@ Testing, bug fixing, validation of telemetry data and reports.
 
 # Architecture Diagram
 ![Power manager architecture](https://github.com/user-attachments/assets/5e9c536b-a9e6-4507-bd66-d04610766a18)
+
+# Result
+![report](https://github.com/user-attachments/assets/65e8ea20-a2b5-41a7-9d17-207d59e7cb5d)
 
 # Conclusion
 The Power Manager Telemetry project addresses the critical issue of power consumption in modern computing environments. By collecting detailed telemetry data, simulating loads, and analyzing the data, this project provides valuable insights into system power utilization. The project aligns with sustainability goals and offers a scalable framework for ongoing research and development.
