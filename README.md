@@ -5,7 +5,6 @@
 # Project Overview
 Power Manager Telemetry is a project aimed at monitoring and optimizing power consumption in modern computing environments, especially in the context of 5G and edge computing deployments. This project focuses on collecting telemetry data from various system components, simulating load using Docker, and analyzing the data to provide insights into system power utilization.
 # Table of Contents
-## Project Overview
 ## Features
 ## Technologies Used
 ## Installation
