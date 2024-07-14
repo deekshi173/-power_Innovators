@@ -5,32 +5,27 @@
 # Project Overview
 Power Manager Telemetry is a project aimed at monitoring and optimizing power consumption in modern computing environments, especially in the context of 5G and edge computing deployments. This project focuses on collecting telemetry data from various system components, simulating load using Docker, and analyzing the data to provide insights into system power utilization.
 # Table of Contents
-## Features
-## Technologies Used
-## Installation
-## Usage
-## Contributing
-## Team Members and Contributions
-## Architecture Diagram
-## Conclusion
-## License
+ - [Features](#Features) 
+ - [Technologies_Used](#Technologies_Used)
+ - [Installation](#Installation)
+ - [Usage](#Usage)
+ - [Contributing](#Contributing)
+ - [Team_Members_and_Contributions](#Team_Members_and_Contributions)
+ - [Architecture_Diagram](#Architecture_Diagram)
+ - [Conclusion](#Conclusion)
+ - [License](#License)
+ - [File_Structure](#File_Structure)
 # Features
-Collection of telemetry data from CPU, memory, NIC, and TDP.
-Load simulation using Docker to generate controlled CPU loads.
-Analysis of telemetry data to calculate key metrics and generate insightful reports.
-Detailed project documentation and user guides.
-# Technologies Used
-## Programming Languages:
-Python (with libraries such as psutil, json, threading, subprocess)
-## Containerization:
-Docker (for creating and managing containers)
-## Data Analysis:
-JSON (for structured data storage)
-## Operating Systems:
-Linux (preferred for telemetry data collection and Docker operations)
-Windows (supported with necessary adjustments)
-## Documentation:
-Markdown (for project documentation)
+. Collection of telemetry data from CPU, memory, NIC, and TDP. 
+. Load simulation using Docker to generate controlled CPU loads. 
+. Analysis of telemetry data to calculate key metrics and generate insightful reports. 
+. Detailed project documentation and user guides.
+# Technologies_Used 
+## 1. *Programming Languages:* - Python (with libraries such as psutil, json, threading, subprocess) 
+## 2. *Containerization:* - Docker (for creating and managing containers) 
+## 3. *Data Analysis:* - JSON (for structured data storage) 
+## 4. *Operating Systems:* - Linux (preferred for telemetry data collection and Docker operations) - Windows (supported with necessary adjustments) 
+## 5. *Documentation:* - Markdown (for project documentation)
 # Installation
 ## Prerequisites
 Python 3.8 or higher: You can download Python from the official Python website.
