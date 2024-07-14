@@ -16,16 +16,26 @@ Power Manager Telemetry is a project aimed at monitoring and optimizing power co
  - [License](#License)
  - [File_Structure](#File_Structure)
 # Features
-. Collection of telemetry data from CPU, memory, NIC, and TDP. 
-. Load simulation using Docker to generate controlled CPU loads. 
+. Collection of telemetry data from CPU, memory, NIC, and TDP.
+
+. Load simulation using Docker to generate controlled CPU loads.
+
 . Analysis of telemetry data to calculate key metrics and generate insightful reports. 
+
 . Detailed project documentation and user guides.
+
 # Technologies_Used 
-## 1. *Programming Languages:* - Python (with libraries such as psutil, json, threading, subprocess) 
-## 2. *Containerization:* - Docker (for creating and managing containers) 
-## 3. *Data Analysis:* - JSON (for structured data storage) 
-## 4. *Operating Systems:* - Linux (preferred for telemetry data collection and Docker operations) - Windows (supported with necessary adjustments) 
-## 5. *Documentation:* - Markdown (for project documentation)
+## 1. *Programming Languages:
+. Python (with libraries such as psutil, json, threading, subprocess) 
+## 2. *Containerization:
+. Docker (for creating and managing containers) 
+## 3. *Data Analysis:
+. JSON (for structured data storage) 
+## 4. *Operating Systems:
+. Linux (preferred for telemetry data collection and Docker operations) - Windows (supported with necessary adjustments) 
+## 5. *Documentation:
+. Markdown (for project documentation)
+
 # Installation
 ## Prerequisites
 Python 3.8 or higher: You can download Python from the official Python website.
