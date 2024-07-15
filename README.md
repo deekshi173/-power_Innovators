@@ -28,8 +28,8 @@ Power Manager Telemetry is a project aimed at monitoring and optimizing power co
 . Python (with libraries such as psutil, json, threading, subprocess) 
 ## 2. Containerization:
 . Docker (for creating and managing containers) 
-## 3. Data Analysis:
-. JSON (for structured data storage) 
+## 3. Data:
+. CSV, JSON (for structured data storage) 
 ## 4. Operating Systems:
 . Linux (preferred for telemetry data collection and Docker operations) - Windows (supported with necessary adjustments) 
 ## 5. Documentation:
