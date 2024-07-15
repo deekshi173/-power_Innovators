@@ -104,10 +104,11 @@ Project documentation, user guides, frontend interface for scripts.
 Testing, bug fixing, validation of telemetry data and reports.
 
 # Process flow:
-![Procces flow](https://github.com/user-attachments/assets/df4df581-2bcb-48eb-b634-5e02719cfef9)
+![process flow](https://github.com/user-attachments/assets/63d4d1ab-7b83-4311-9730-fd512392e37a)
+
 
 # Architecture Diagram
-![Power manager architecture](https://github.com/user-attachments/assets/5e9c536b-a9e6-4507-bd66-d04610766a18)
+![Power manager architecture (1)](https://github.com/user-attachments/assets/668a0216-d4eb-4ba8-8d50-965375038338)
 
 # Result
 ![report (2)](https://github.com/user-attachments/assets/9339b502-636a-4e16-bdd8-b5e16fdc3071)
