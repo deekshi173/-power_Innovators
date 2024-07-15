@@ -110,7 +110,7 @@ Testing, bug fixing, validation of telemetry data and reports.
 ![Power manager architecture](https://github.com/user-attachments/assets/5e9c536b-a9e6-4507-bd66-d04610766a18)
 
 # Result
-![report](https://github.com/user-attachments/assets/65e8ea20-a2b5-41a7-9d17-207d59e7cb5d)
+![report (2)](https://github.com/user-attachments/assets/9339b502-636a-4e16-bdd8-b5e16fdc3071)
 ![Result 1 (1)](https://github.com/user-attachments/assets/44e75153-dd2a-410b-979d-02f333f6b6e0)
 ![Result 1 (2)](https://github.com/user-attachments/assets/a18eaceb-f718-4025-ac06-afb1db1d04d9)
 
