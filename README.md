@@ -13,7 +13,6 @@ Power Manager Telemetry is a project aimed at monitoring and optimizing power co
  - [Team_Members_and_Contributions](#Team_Members_and_Contributions)
  - [Architecture_Diagram](#Architecture_Diagram)
  - [Conclusion](#Conclusion)
- - [License](#License)
  - [File_Structure](#File_Structure)
 # Features
 . Collection of telemetry data from CPU, memory, NIC, and TDP.
@@ -115,8 +114,6 @@ Testing, bug fixing, validation of telemetry data and reports.
 # Conclusion
 The Power Manager Telemetry project addresses the critical issue of power consumption in modern computing environments. By collecting detailed telemetry data, simulating loads, and analyzing the data, this project provides valuable insights into system power utilization. The project aligns with sustainability goals and offers a scalable framework for ongoing research and development.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 # File Structure
 power_manager_telemetry/
