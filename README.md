@@ -71,7 +71,9 @@ The telemetry data will be logged into a CSV file.
 ``sh
 docker build -t load_simulator .
 ```
+
 # Generating Reports
+
 ## Run the report generation script:
 ```sh
 python generate_report.py
@@ -129,8 +131,6 @@ power_manager_telemetry/
 ├── telemetry_data.py
 
 ├── README.md
-
-├── LICENSE
 
 ├── .gitignore
 
