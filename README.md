@@ -38,7 +38,9 @@ Power Manager Telemetry is a project aimed at monitoring and optimizing power co
 # Installation
 ## Prerequisites
 Python 3.8 or higher: You can download Python from the official Python website.
+
 Docker Desktop: Docker is required for running the load simulation. You can download Docker from the official Docker website.
+
 Git: Git is used for version control and cloning the repository. You can download Git from the official Git website.
 ## Steps
 1. Clone the repository:
@@ -68,7 +70,7 @@ The telemetry data will be logged into a CSV file.
 
 ## Running Load Simulation
 3. Run the Docker container to simulate load:
-``sh
+```sh
 docker build -t load_simulator .
 ```
 
