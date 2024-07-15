@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 def analyze_telemetry_data(filename='telemetry_data.json'):
     with open(filename, 'r') as f:
         data = [json.loads(line) for line in f]
@@ -13,6 +14,7 @@ def analyze_telemetry_data(filename='telemetry_data.json'):
     avg_tdp = sum(item['tdp'] for item in data if item['tdp'] is not None) / len(data)
 
     report = {
+        'timestamp': datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         'average_cpu_percent': avg_cpu,
         'average_memory_percent': avg_memory,
         'average_nic_usage': avg_nic,
@@ -32,5 +34,6 @@ def generate_report(report_data, output_file='report.txt'):
                 f.write(f"{key}: {value}\n")
 
 if __name__ == "__main__":
+    target_date = "2024-07-15"
     report_data = analyze_telemetry_data()
     generate_report(report_data)
