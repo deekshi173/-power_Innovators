@@ -25,15 +25,15 @@ Power Manager Telemetry is a project aimed at monitoring and optimizing power co
 . Detailed project documentation and user guides.
 
 # Technologies_Used 
-## 1. *Programming Languages:
+## 1. Programming Languages:
 . Python (with libraries such as psutil, json, threading, subprocess) 
-## 2. *Containerization:
+## 2. Containerization:
 . Docker (for creating and managing containers) 
-## 3. *Data Analysis:
+## 3. Data Analysis:
 . JSON (for structured data storage) 
-## 4. *Operating Systems:
+## 4. Operating Systems:
 . Linux (preferred for telemetry data collection and Docker operations) - Windows (supported with necessary adjustments) 
-## 5. *Documentation:
+## 5. Documentation:
 . Markdown (for project documentation)
 
 # Installation
@@ -108,6 +108,9 @@ Testing, bug fixing, validation of telemetry data and reports.
 
 # Result
 ![report](https://github.com/user-attachments/assets/65e8ea20-a2b5-41a7-9d17-207d59e7cb5d)
+![Result 1 (1)](https://github.com/user-attachments/assets/44e75153-dd2a-410b-979d-02f333f6b6e0)
+![Result 1 (2)](https://github.com/user-attachments/assets/a18eaceb-f718-4025-ac06-afb1db1d04d9)
+
 
 # Conclusion
 The Power Manager Telemetry project addresses the critical issue of power consumption in modern computing environments. By collecting detailed telemetry data, simulating loads, and analyzing the data, this project provides valuable insights into system power utilization. The project aligns with sustainability goals and offers a scalable framework for ongoing research and development.
